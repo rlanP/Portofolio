@@ -79,14 +79,14 @@ export default function Home() {
 
           <div className="p-6 rounded-2xl bg-gray-900/50 border border-gray-800 hover:border-purple-500/50 transition-all duration-300 hover:-translate-y-1 group">
             <div className="w-12 h-12 rounded-xl bg-purple-500/10 flex items-center justify-center mb-4 group-hover:bg-purple-500/20 transition-colors">
-              <span className="text-2xl text-purple-400">🎨</span>
+              <span className="text-2xl text-purple-400">🛡️</span>
             </div>
             <h3 className="text-lg font-semibold text-white mb-2">
-              UI/UX Design
+              Cyber Security
             </h3>
             <p className="text-gray-400 text-sm leading-relaxed">
-              Mendesain pengalaman pengguna yang intuitif dan tampilan visual
-              yang modern dan menarik.
+              Web Application Security, Penetration Testing, dan Digital
+              Forensics dengan pendekatan berbasis praktik dan CTF.
             </p>
           </div>
         </div>

@@ -1,5 +1,4 @@
 "use client";
-
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
@@ -12,6 +11,7 @@ export default function Navbar() {
     { href: "/", label: "Home" },
     { href: "/about", label: "About" },
     { href: "/portfolio", label: "Portfolio" },
+    { href: "/certificates", label: "Certificates" },
     { href: "/skills", label: "Skills" },
     { href: "/testimonials", label: "Testimonials" },
     { href: "/contact", label: "Contact" },
