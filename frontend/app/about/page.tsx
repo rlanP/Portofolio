@@ -31,16 +31,10 @@ export default function AboutPage() {
             Halo! Saya Erlan
           </h2>
           <p className="text-gray-400 leading-relaxed">
-            Saya adalah siswa Rekayasa Perangkat Lunak (RPL) yang memiliki
-            passion besar di bidang web development. Saya senang menerjemahkan
-            ide menjadi aplikasi web yang fungsional, interaktif, dan memiliki
-            nilai guna.
+           Saya adalah siswa Rekayasa Perangkat Lunak (RPL) di SMK Telkom Makassar yang memiliki minat di bidang pengembangan web dan keamanan siber. Saya membangun aplikasi menggunakan React, Next.js, TypeScript, Laravel, dan MySQL, serta selalu berusaha menciptakan aplikasi yang modern, responsif, dan mudah digunakan.
           </p>
           <p className="text-gray-400 leading-relaxed">
-            Perjalanan saya di dunia programming dimulai sejak bangku SMK.
-            Ketika pertama kali belajar ngoding, saya langsung tertarik. Terus
-            mengasah keahlian dengan berbagai teknologi seperti JavaScript,
-            React, Next.js, hingga backend dengan Node.js dan database MySQL.
+            Selain pengembangan web, saya juga tertarik pada web security, network security, dan ethical hacking. Saya terus mengembangkan kemampuan melalui pembelajaran mandiri, TryHackMe, serta berbagai proyek untuk memperdalam pemahaman tentang keamanan sistem dan aplikasi.
           </p>
 
           <div className="grid grid-cols-2 gap-4 pt-4 border-t border-gray-800/50">

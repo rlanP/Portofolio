@@ -124,7 +124,7 @@ export default function ContactPage() {
                       GitHub: "https://github.com/rlanP",
                       LinkedIn:
                         "https://www.linkedin.com/in/erlan-yusuf-rafif-abd19082009/",
-                      Instagram: "https://instagram.com/username",
+                      Instagram: "https://www.instagram.com/rlabn_/",
                     }[social]
                   }
                   target="_blank"

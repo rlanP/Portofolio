@@ -27,7 +27,7 @@ export interface Testimonial {
 }
 
 const projects: Project[] = [
-  { title: "CaseFlow", category: "Web Dev", description: "Membuat platform manajemen kasus sidang", githubUrl: "#", image: "project1.png" },
+  { title: "CaseFlow", category: "Web Dev", description: "Membuat platform manajemen kasus sidang", githubUrl: "", image: "project1.png" },
    { title: "CTF Writeup", category: "Cyber Security", description: "Writeup CTF yang telah saya kerjakan", githubUrl: "https://github.com/rlanP/ctf-writeup", image: "project2.png" },
 ];
 
@@ -53,6 +53,12 @@ const certificates: Certificate[] = [
     date: "2026",
     image: "/certificates2.png",
   },
+  {
+    name: "Medallion For Excellence Bidang Teknologi Keamanan Siber",
+    issuer: "Lomba Kompetensi Siswa Tingkat Nasional Puspresnas",
+    date: "2026",
+    image: "/certificates3.png",
+  },    
 
 ];
 
@@ -68,7 +74,7 @@ const testimonials: Testimonial[] = [
     name: "Christian Renato Wongkar",
     role: "IT Consultant",
     company: "PT Dirgantara Indonesia",
-    quote: "Sangat profesional, hasilnya bersih dan mudah digunakan. Review teknisnya juga sangat detail.",
+    quote: "Bekerja sama terasa mudah karena setiap proses dikerjakan dengan terstruktur. Selalu memberikan solusi yang tepat ketika menghadapi kendala.",
     stars: 4,
   },
 ];

@@ -21,16 +21,15 @@ export default function Home() {
             </span>
           </div>
 
-          <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold tracking-tight mb-6">
+          <h1 className="text-3xl sm:text-5xl lg:text-7xl font-bold tracking-tight mb-6">
             <span className="text-white">Halo, Saya </span>
             <span className="bg-gradient-to-r from-indigo-400 via-violet-400 to-purple-400 bg-clip-text text-transparent">
-              Erlan
+              Erlan Yusuf Rafif
             </span>
           </h1>
 
           <p className="text-lg sm:text-xl text-gray-400 mb-10 max-w-2xl mx-auto leading-relaxed">
-            Membangun antarmuka yang responsif dan interaktif. Berpengalaman
-            melalui project nyata dan terus belajar teknologi terbaru.
+            Saya adalah siswa Software Engineering yang tertarik pada cybersecurity dan web development. Saya senang membangun aplikasi modern sekaligus mempelajari cara menemukan serta mengatasi kerentanan keamanan pada sistem.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
